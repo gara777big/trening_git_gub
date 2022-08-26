@@ -1,0 +1,3 @@
+C:/Users/garar/CLionProjects/trening_git_gub/cmake-build-debug/CMakeFiles/trening_git_gub.dir
+C:/Users/garar/CLionProjects/trening_git_gub/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/garar/CLionProjects/trening_git_gub/cmake-build-debug/CMakeFiles/rebuild_cache.dir
